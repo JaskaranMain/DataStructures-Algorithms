@@ -6,6 +6,7 @@ Starts from now on 22 Jan 2024
 <hr>
 
 <h2>## Features</h>
+
 - Categorized solutions for easy navigation.
 - Optimized and well-documented code in Java.
 - Algorithm visualizations and problem-solving applications.
