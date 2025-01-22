@@ -4,7 +4,8 @@ This repository showcases my solutions to Data Structures and Algorithms problem
 So Currently i will follow stiver DSA A2Z sheet for preparation and learning.
 Starts from now on 22 Jan 2024
 <hr>
-## Features
+
+<h2>## Features</h>
 - Categorized solutions for easy navigation.
 - Optimized and well-documented code in Java.
 - Algorithm visualizations and problem-solving applications.
