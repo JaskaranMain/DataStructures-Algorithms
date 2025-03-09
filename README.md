@@ -1,9 +1,4 @@
 # Data-Structures-and-Algorithms
 This repository showcases my solutions to Data Structures and Algorithms problems, organized by categories. It also includes small projects that demonstrate the application of DSA in real-world scenarios.
 
-So Currently i will follow stiver DSA A2Z sheet for preparation and learning.
-Starts from now on 22 Jan 2024
-## Features
-- Categorized solutions for easy navigation.
-- Optimized and well-documented code in Java.
-- Algorithm visualizations and problem-solving applications.
+![image](https://github.com/user-attachments/assets/c7621260-c73e-43a7-985f-87146111e31b)
