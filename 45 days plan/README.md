@@ -31,3 +31,10 @@
 🗓️ Week 6: Mock Interviews + Revision<br>
 ✅ Revise important concepts and frequently asked questions.<br>
 ✅ Attempt 3-4 mock interviews to test knowledge.<br>
+<hr>
+🔥 Tips for Effective Learning<br>
+-Focus on Patterns instead of just solutions.<br>
+-Use Leetcode, GFG, CodeStudio for practicing.<br>
+-Solve at least 4-5 problems daily.<br>
+-Watch tutorials (CodeWithHarry, Striver, Love Babbar).<br>
+-Revise & Take Notes (Write down key formulas & approaches).<br>
