@@ -52,3 +52,6 @@
 
 🛠 Practice: Solve 30-40 DSA questions + apply for Java freelancing gigs.
 
+
+![image](https://github.com/user-attachments/assets/663e8f45-3f21-42fd-bcd6-587634924f74)
+
