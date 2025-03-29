@@ -1,4 +1,4 @@
-<h2>General Database Atchitecture</h2>
+<h2>General Database Achitecture</h2>
 <br>
 <h4>1. Client Interface</h4>
 <b>-Client:</b> in Database architeture, the term "Client" refers to any device, application, or user that interacts with the database server to request and retreive data. The client is part of the client-server model, a fundamental concept in database and network design.
