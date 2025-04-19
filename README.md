@@ -44,5 +44,4 @@ Focus on essential topics rather than advanced ones.<br>
 
 🗓️ Week 6: Mock Interviews + Revision<br>
 ✅ Revise important concepts and frequently asked questions.<br>
-✅ Attempt 3-4 mock interviews to test knowledge.<br><br><hr>
-![image](https://github.com/user-attachments/assets/c7621260-c73e-43a7-985f-87146111e31b)
+✅ Attempt 3-4 mock interviews to test knowledge.<br><hr>
