@@ -1,5 +1,5 @@
 ## Since you have 1.5 months and need DSA for interviews, focus on essential topics rather than advanced ones.
-
+we do simuntaniously with other work.
 #### 🔥 Tips for Effective Learning
 - Focus on Patterns instead of just solutions.  
 - Use **Leetcode**, **GFG**, **CodeStudio** for practicing.  
